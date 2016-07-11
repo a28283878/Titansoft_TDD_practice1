@@ -1,0 +1,9 @@
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\MineFieldTest.dll
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\MineFieldTest.pdb
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\MineFieldRichard.dll
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\MineFieldRichard.pdb
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\obj\Debug\MineFieldTest.csprojResolveAssemblyReference.cache
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\obj\Debug\MineFieldTest.dll
+E:\Desktop\二下\Tiatansoft\MineFieldRichard\MineFieldTest\obj\Debug\MineFieldTest.pdb
